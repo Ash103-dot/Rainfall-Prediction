@@ -45,7 +45,7 @@ function Predict () {
    
    if(data!==0)
    {
-   var message = "<h2>The Predicted Rainfall is " + data + " mm/hr</h2>";
+   var message = "<h2>The Predicted Rainfall is " + data + " mm</h2>";
   }
     else
     {
